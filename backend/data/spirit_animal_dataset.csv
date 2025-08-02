@@ -1,0 +1,501 @@
+social_preference,energy_time,activity,pace,stress_response,favorite_color,animal
+Big Group,Morning,Sleeping,Slow,Aggressive,Blue,Bear
+Small Group,Morning,Swimming,Fast,Anxious,Black,Rabbit
+Small Group,Afternoon,Swimming,Fast,Aggressive,Green,Lion
+Big Group,Night,Hunting,Slow,Calm,Blue,Dog
+Alone,Morning,Exploring,Medium,Calm,Red,Dog
+Small Group,Afternoon,Swimming,Fast,Calm,Green,Rabbit
+Alone,Afternoon,Exploring,Fast,Anxious,Blue,Dog
+Small Group,Afternoon,Sleeping,Fast,Anxious,Green,Rabbit
+Big Group,Night,Hunting,Medium,Aggressive,Green,Fox
+Big Group,Night,Exploring,Medium,Calm,Black,Dog
+Alone,Morning,Exploring,Fast,Calm,White,Dog
+Big Group,Afternoon,Exploring,Slow,Aggressive,Blue,Dog
+Small Group,Afternoon,Sleeping,Medium,Aggressive,Red,Lion
+Big Group,Afternoon,Hunting,Medium,Aggressive,Black,Fox
+Big Group,Night,Exploring,Slow,Anxious,Blue,Dog
+Alone,Morning,Hunting,Medium,Aggressive,Red,Fox
+Big Group,Afternoon,Hunting,Medium,Calm,Red,Dog
+Small Group,Night,Exploring,Fast,Aggressive,Green,Lion
+Alone,Night,Sleeping,Fast,Calm,Green,Cat
+Small Group,Morning,Sleeping,Fast,Aggressive,Blue,Lion
+Alone,Morning,Exploring,Slow,Anxious,Blue,Dog
+Alone,Afternoon,Exploring,Slow,Calm,Red,Dog
+Big Group,Afternoon,Sleeping,Slow,Aggressive,Red,Dog
+Big Group,Morning,Sleeping,Fast,Aggressive,Blue,Dog
+Alone,Morning,Swimming,Medium,Anxious,Green,Cat
+Big Group,Night,Hunting,Slow,Aggressive,Black,Owl
+Alone,Morning,Hunting,Slow,Aggressive,Red,Fox
+Big Group,Night,Sleeping,Medium,Calm,Red,Dog
+Alone,Night,Sleeping,Fast,Calm,White,Cat
+Small Group,Morning,Hunting,Medium,Aggressive,Black,Fox
+Small Group,Night,Hunting,Slow,Anxious,Blue,Owl
+Big Group,Morning,Exploring,Fast,Aggressive,Blue,Dog
+Small Group,Night,Sleeping,Fast,Calm,Black,Cat
+Big Group,Night,Hunting,Slow,Aggressive,Blue,Owl
+Small Group,Night,Hunting,Medium,Aggressive,Blue,Fox
+Small Group,Afternoon,Hunting,Fast,Anxious,Black,Rabbit
+Alone,Night,Sleeping,Medium,Anxious,Black,Cat
+Big Group,Afternoon,Sleeping,Medium,Calm,Black,Dog
+Small Group,Morning,Swimming,Medium,Calm,Red,Dog
+Small Group,Morning,Sleeping,Fast,Calm,Black,Rabbit
+Big Group,Morning,Sleeping,Fast,Anxious,Green,Rabbit
+Small Group,Afternoon,Hunting,Fast,Calm,Blue,Dog
+Alone,Morning,Swimming,Slow,Aggressive,Black,Cat
+Small Group,Morning,Exploring,Slow,Calm,Red,Dog
+Big Group,Afternoon,Hunting,Medium,Calm,Blue,Dog
+Big Group,Night,Exploring,Slow,Aggressive,Black,Owl
+Big Group,Morning,Hunting,Medium,Anxious,Red,Fox
+Alone,Afternoon,Hunting,Slow,Calm,Red,Dog
+Big Group,Afternoon,Sleeping,Slow,Anxious,Green,Rabbit
+Big Group,Night,Sleeping,Medium,Anxious,Blue,Cat
+Big Group,Morning,Hunting,Fast,Aggressive,Blue,Dog
+Alone,Night,Exploring,Medium,Calm,Black,Cat
+Big Group,Afternoon,Exploring,Fast,Calm,White,Dog
+Big Group,Afternoon,Swimming,Medium,Aggressive,White,Dolphin
+Small Group,Morning,Swimming,Slow,Aggressive,Green,Bear
+Small Group,Morning,Swimming,Slow,Aggressive,White,Owl
+Alone,Morning,Hunting,Medium,Calm,Red,Fox
+Small Group,Afternoon,Hunting,Fast,Anxious,Black,Rabbit
+Small Group,Morning,Exploring,Medium,Anxious,Red,Dog
+Big Group,Afternoon,Sleeping,Fast,Anxious,Green,Rabbit
+Alone,Morning,Swimming,Fast,Calm,Black,Cat
+Alone,Morning,Hunting,Medium,Aggressive,White,Fox
+Big Group,Morning,Sleeping,Fast,Calm,White,Rabbit
+Alone,Afternoon,Swimming,Medium,Aggressive,Green,Fox
+Small Group,Morning,Hunting,Fast,Calm,White,Rabbit
+Small Group,Night,Swimming,Medium,Aggressive,Black,Fox
+Big Group,Afternoon,Swimming,Fast,Anxious,Red,Dog
+Small Group,Night,Swimming,Fast,Calm,Green,Rabbit
+Alone,Morning,Hunting,Fast,Anxious,White,Cat
+Alone,Night,Sleeping,Slow,Anxious,White,Cat
+Small Group,Night,Sleeping,Slow,Calm,Black,Cat
+Small Group,Afternoon,Hunting,Slow,Calm,Green,Bear
+Alone,Afternoon,Hunting,Medium,Aggressive,White,Fox
+Alone,Night,Swimming,Slow,Calm,Red,Dog
+Big Group,Night,Exploring,Fast,Calm,Blue,Dog
+Alone,Afternoon,Exploring,Medium,Aggressive,Black,Fox
+Alone,Afternoon,Exploring,Slow,Aggressive,Red,Fox
+Small Group,Afternoon,Exploring,Medium,Aggressive,Red,Fox
+Big Group,Morning,Swimming,Medium,Aggressive,Green,Dolphin
+Alone,Night,Swimming,Slow,Aggressive,White,Cat
+Alone,Afternoon,Sleeping,Fast,Anxious,Red,Cat
+Alone,Morning,Hunting,Slow,Anxious,Green,Bear
+Alone,Morning,Hunting,Medium,Aggressive,Green,Fox
+Small Group,Morning,Exploring,Medium,Aggressive,Blue,Dog
+Small Group,Morning,Sleeping,Fast,Aggressive,White,Rabbit
+Small Group,Morning,Sleeping,Fast,Aggressive,Black,Lion
+Small Group,Morning,Exploring,Medium,Aggressive,Green,Fox
+Alone,Morning,Swimming,Medium,Aggressive,Black,Fox
+Small Group,Morning,Swimming,Fast,Calm,Green,Rabbit
+Big Group,Morning,Swimming,Fast,Anxious,Blue,Dolphin
+Big Group,Night,Hunting,Medium,Anxious,White,Cat
+Small Group,Morning,Hunting,Slow,Anxious,Blue,Dog
+Small Group,Night,Hunting,Slow,Anxious,Red,Owl
+Alone,Night,Swimming,Fast,Aggressive,Blue,Cat
+Small Group,Afternoon,Sleeping,Fast,Calm,Black,Rabbit
+Big Group,Morning,Sleeping,Medium,Anxious,Red,Dog
+Alone,Morning,Exploring,Fast,Anxious,Red,Dog
+Alone,Night,Hunting,Medium,Anxious,Red,Cat
+Small Group,Morning,Sleeping,Medium,Anxious,Black,Cat
+Big Group,Afternoon,Sleeping,Slow,Aggressive,Blue,Dog
+Small Group,Morning,Hunting,Medium,Anxious,White,Rabbit
+Big Group,Night,Sleeping,Fast,Calm,Black,Cat
+Big Group,Afternoon,Exploring,Fast,Anxious,Blue,Dog
+Alone,Night,Sleeping,Medium,Aggressive,Green,Cat
+Big Group,Afternoon,Exploring,Medium,Anxious,Red,Dog
+Alone,Night,Swimming,Fast,Aggressive,Green,Cat
+Small Group,Night,Swimming,Slow,Anxious,Green,Rabbit
+Small Group,Night,Sleeping,Medium,Aggressive,Black,Cat
+Big Group,Night,Hunting,Slow,Aggressive,Black,Owl
+Alone,Morning,Sleeping,Medium,Calm,White,Cat
+Small Group,Morning,Sleeping,Slow,Calm,Green,Bear
+Small Group,Morning,Swimming,Slow,Anxious,Green,Rabbit
+Alone,Afternoon,Swimming,Fast,Anxious,Green,Rabbit
+Alone,Morning,Swimming,Slow,Aggressive,Black,Cat
+Big Group,Night,Swimming,Fast,Anxious,Blue,Dolphin
+Big Group,Afternoon,Exploring,Slow,Calm,Blue,Dog
+Alone,Afternoon,Sleeping,Slow,Anxious,Blue,Cat
+Big Group,Afternoon,Hunting,Fast,Calm,Black,Dog
+Alone,Morning,Sleeping,Slow,Anxious,White,Cat
+Big Group,Afternoon,Exploring,Slow,Anxious,Blue,Dog
+Small Group,Afternoon,Swimming,Slow,Aggressive,Black,Owl
+Small Group,Night,Exploring,Fast,Calm,Black,Dog
+Alone,Morning,Sleeping,Fast,Aggressive,Red,Lion
+Small Group,Night,Hunting,Medium,Calm,Red,Dog
+Small Group,Morning,Sleeping,Slow,Aggressive,Red,Lion
+Small Group,Afternoon,Exploring,Slow,Anxious,Blue,Dog
+Big Group,Night,Hunting,Medium,Calm,Blue,Dog
+Alone,Morning,Sleeping,Slow,Anxious,Black,Cat
+Big Group,Night,Swimming,Medium,Aggressive,Blue,Dolphin
+Alone,Night,Hunting,Medium,Calm,White,Cat
+Big Group,Night,Exploring,Fast,Aggressive,Green,Dog
+Big Group,Afternoon,Hunting,Fast,Calm,Green,Dog
+Alone,Afternoon,Hunting,Slow,Anxious,Blue,Cat
+Small Group,Morning,Hunting,Slow,Anxious,Black,Owl
+Big Group,Morning,Hunting,Slow,Aggressive,Blue,Dog
+Small Group,Afternoon,Hunting,Slow,Aggressive,White,Owl
+Big Group,Night,Exploring,Fast,Anxious,Red,Dog
+Small Group,Morning,Exploring,Fast,Calm,Black,Dog
+Alone,Afternoon,Sleeping,Slow,Aggressive,Blue,Cat
+Big Group,Morning,Sleeping,Fast,Calm,Black,Bear
+Big Group,Afternoon,Swimming,Medium,Calm,Black,Dolphin
+Small Group,Morning,Exploring,Fast,Aggressive,Green,Lion
+Alone,Morning,Swimming,Slow,Aggressive,Blue,Dolphin
+Small Group,Afternoon,Swimming,Slow,Aggressive,White,Owl
+Alone,Afternoon,Exploring,Medium,Aggressive,Blue,Fox
+Alone,Afternoon,Swimming,Fast,Anxious,Blue,Cat
+Big Group,Afternoon,Sleeping,Slow,Aggressive,Red,Dog
+Small Group,Morning,Hunting,Slow,Anxious,Black,Owl
+Big Group,Morning,Swimming,Slow,Aggressive,Red,Dog
+Small Group,Night,Exploring,Fast,Calm,Green,Dog
+Small Group,Afternoon,Exploring,Medium,Aggressive,Green,Fox
+Alone,Afternoon,Sleeping,Medium,Calm,Blue,Dog
+Small Group,Morning,Hunting,Fast,Anxious,Green,Rabbit
+Alone,Morning,Swimming,Fast,Aggressive,White,Cat
+Big Group,Afternoon,Sleeping,Medium,Anxious,Red,Dog
+Alone,Night,Hunting,Slow,Aggressive,Green,Owl
+Big Group,Afternoon,Hunting,Fast,Anxious,Blue,Dog
+Big Group,Afternoon,Swimming,Medium,Calm,Blue,Dolphin
+Alone,Night,Swimming,Medium,Aggressive,Blue,Cat
+Small Group,Morning,Swimming,Medium,Aggressive,Green,Lion
+Small Group,Afternoon,Hunting,Slow,Anxious,Red,Dog
+Alone,Night,Hunting,Medium,Aggressive,Green,Fox
+Small Group,Morning,Swimming,Slow,Aggressive,Black,Owl
+Big Group,Afternoon,Hunting,Medium,Aggressive,Blue,Fox
+Big Group,Morning,Hunting,Slow,Calm,Green,Bear
+Big Group,Morning,Sleeping,Slow,Aggressive,Red,Bear
+Big Group,Afternoon,Sleeping,Slow,Aggressive,White,Cat
+Alone,Night,Hunting,Medium,Anxious,White,Cat
+Big Group,Afternoon,Hunting,Fast,Anxious,Black,Cat
+Big Group,Night,Sleeping,Medium,Aggressive,Blue,Dog
+Alone,Morning,Hunting,Fast,Aggressive,Green,Lion
+Big Group,Night,Exploring,Fast,Aggressive,Black,Fox
+Small Group,Night,Hunting,Fast,Aggressive,Green,Lion
+Small Group,Night,Exploring,Slow,Aggressive,Green,Dog
+Small Group,Night,Exploring,Fast,Aggressive,Green,Lion
+Big Group,Night,Exploring,Medium,Calm,Green,Dog
+Big Group,Afternoon,Exploring,Medium,Anxious,Blue,Dog
+Big Group,Morning,Swimming,Fast,Anxious,Black,Cat
+Small Group,Night,Swimming,Slow,Aggressive,White,Owl
+Big Group,Afternoon,Hunting,Slow,Anxious,Red,Dog
+Big Group,Afternoon,Hunting,Fast,Anxious,Blue,Dog
+Big Group,Morning,Exploring,Medium,Anxious,Blue,Dog
+Small Group,Afternoon,Hunting,Medium,Anxious,White,Rabbit
+Small Group,Afternoon,Sleeping,Slow,Anxious,Black,Cat
+Big Group,Night,Exploring,Slow,Anxious,Blue,Dog
+Big Group,Afternoon,Hunting,Medium,Calm,Black,Fox
+Big Group,Night,Exploring,Medium,Calm,White,Dog
+Small Group,Morning,Sleeping,Fast,Aggressive,Black,Lion
+Big Group,Morning,Swimming,Medium,Aggressive,Blue,Dolphin
+Alone,Night,Sleeping,Medium,Anxious,White,Cat
+Alone,Night,Exploring,Slow,Anxious,Green,Cat
+Small Group,Night,Exploring,Medium,Anxious,Blue,Dog
+Small Group,Night,Sleeping,Fast,Aggressive,Black,Cat
+Alone,Afternoon,Exploring,Fast,Calm,Black,Dog
+Small Group,Night,Exploring,Slow,Calm,Red,Dog
+Big Group,Afternoon,Hunting,Fast,Aggressive,Black,Fox
+Alone,Morning,Sleeping,Medium,Aggressive,White,Cat
+Alone,Morning,Swimming,Slow,Aggressive,Blue,Dolphin
+Small Group,Night,Hunting,Fast,Aggressive,Green,Lion
+Big Group,Night,Swimming,Slow,Anxious,Blue,Dolphin
+Big Group,Night,Exploring,Slow,Aggressive,Red,Dog
+Alone,Night,Swimming,Slow,Aggressive,Red,Cat
+Small Group,Afternoon,Exploring,Medium,Calm,Green,Dog
+Alone,Morning,Swimming,Slow,Aggressive,Black,Cat
+Big Group,Afternoon,Exploring,Fast,Calm,Blue,Dog
+Alone,Night,Exploring,Medium,Calm,Green,Dog
+Alone,Afternoon,Swimming,Slow,Calm,Green,Bear
+Big Group,Night,Sleeping,Slow,Anxious,Blue,Cat
+Small Group,Afternoon,Hunting,Medium,Calm,Black,Fox
+Big Group,Morning,Hunting,Slow,Anxious,Red,Dog
+Small Group,Afternoon,Hunting,Slow,Aggressive,Green,Owl
+Small Group,Night,Swimming,Slow,Anxious,Black,Cat
+Alone,Night,Exploring,Slow,Anxious,Black,Cat
+Small Group,Morning,Exploring,Fast,Anxious,Red,Dog
+Small Group,Night,Exploring,Slow,Calm,Green,Dog
+Alone,Afternoon,Exploring,Medium,Calm,White,Dog
+Alone,Night,Hunting,Slow,Calm,White,Owl
+Small Group,Afternoon,Exploring,Slow,Aggressive,Black,Fox
+Big Group,Night,Hunting,Medium,Calm,Red,Dog
+Alone,Night,Swimming,Fast,Aggressive,Black,Cat
+Small Group,Morning,Sleeping,Slow,Calm,Blue,Bear
+Small Group,Morning,Hunting,Medium,Aggressive,White,Fox
+Alone,Morning,Swimming,Slow,Anxious,Blue,Cat
+Small Group,Night,Swimming,Medium,Aggressive,Red,Lion
+Small Group,Morning,Sleeping,Fast,Aggressive,Blue,Lion
+Big Group,Morning,Sleeping,Slow,Calm,White,Bear
+Alone,Night,Sleeping,Medium,Aggressive,Black,Cat
+Small Group,Afternoon,Sleeping,Fast,Calm,Blue,Dog
+Small Group,Night,Exploring,Slow,Anxious,Black,Cat
+Big Group,Morning,Exploring,Medium,Calm,Red,Dog
+Big Group,Afternoon,Hunting,Fast,Anxious,White,Rabbit
+Alone,Afternoon,Exploring,Fast,Aggressive,Red,Lion
+Big Group,Afternoon,Exploring,Fast,Aggressive,White,Dog
+Small Group,Night,Hunting,Fast,Aggressive,Red,Lion
+Alone,Morning,Swimming,Medium,Anxious,Red,Cat
+Small Group,Night,Swimming,Fast,Aggressive,Blue,Lion
+Alone,Afternoon,Swimming,Medium,Aggressive,White,Cat
+Alone,Night,Exploring,Medium,Anxious,Red,Cat
+Small Group,Night,Hunting,Fast,Calm,Red,Dog
+Small Group,Night,Swimming,Slow,Aggressive,White,Owl
+Alone,Afternoon,Sleeping,Slow,Aggressive,Blue,Cat
+Big Group,Morning,Swimming,Fast,Aggressive,Red,Lion
+Big Group,Afternoon,Hunting,Fast,Anxious,Black,Cat
+Small Group,Night,Exploring,Slow,Aggressive,Green,Dog
+Alone,Night,Sleeping,Medium,Aggressive,Black,Cat
+Alone,Night,Hunting,Slow,Calm,Blue,Owl
+Alone,Night,Sleeping,Medium,Aggressive,White,Cat
+Alone,Morning,Exploring,Medium,Calm,Red,Dog
+Small Group,Night,Swimming,Medium,Anxious,Green,Rabbit
+Big Group,Afternoon,Sleeping,Fast,Aggressive,Green,Rabbit
+Alone,Night,Hunting,Medium,Aggressive,Green,Fox
+Alone,Afternoon,Swimming,Fast,Aggressive,Green,Lion
+Alone,Morning,Exploring,Fast,Anxious,Green,Rabbit
+Big Group,Night,Exploring,Slow,Calm,Red,Dog
+Big Group,Night,Hunting,Fast,Aggressive,Blue,Dog
+Alone,Afternoon,Hunting,Fast,Calm,White,Cat
+Small Group,Night,Sleeping,Slow,Calm,Green,Bear
+Alone,Afternoon,Hunting,Slow,Aggressive,Green,Owl
+Big Group,Afternoon,Sleeping,Fast,Aggressive,White,Rabbit
+Alone,Afternoon,Swimming,Slow,Aggressive,Green,Bear
+Small Group,Afternoon,Exploring,Medium,Anxious,Red,Dog
+Small Group,Night,Swimming,Medium,Calm,Blue,Dog
+Big Group,Night,Exploring,Slow,Calm,White,Dog
+Big Group,Morning,Hunting,Slow,Anxious,Red,Dog
+Alone,Afternoon,Hunting,Medium,Aggressive,White,Fox
+Big Group,Afternoon,Sleeping,Slow,Anxious,Blue,Dog
+Small Group,Night,Sleeping,Slow,Calm,Green,Bear
+Big Group,Night,Exploring,Fast,Aggressive,Red,Dog
+Alone,Night,Hunting,Medium,Anxious,Green,Cat
+Small Group,Night,Hunting,Slow,Aggressive,White,Owl
+Alone,Morning,Hunting,Medium,Aggressive,Blue,Fox
+Big Group,Morning,Sleeping,Fast,Aggressive,Blue,Dog
+Small Group,Afternoon,Hunting,Fast,Anxious,Red,Lion
+Small Group,Afternoon,Sleeping,Slow,Anxious,Red,Rabbit
+Alone,Morning,Sleeping,Medium,Anxious,Green,Cat
+Alone,Morning,Swimming,Fast,Calm,Green,Bear
+Small Group,Afternoon,Swimming,Medium,Aggressive,Red,Lion
+Small Group,Afternoon,Sleeping,Medium,Calm,Red,Dog
+Alone,Morning,Sleeping,Fast,Calm,Black,Cat
+Big Group,Morning,Swimming,Medium,Aggressive,Blue,Dolphin
+Alone,Night,Sleeping,Slow,Aggressive,Green,Cat
+Small Group,Night,Exploring,Slow,Aggressive,Green,Dog
+Big Group,Afternoon,Swimming,Fast,Calm,Green,Dolphin
+Big Group,Night,Swimming,Fast,Calm,Red,Dog
+Alone,Afternoon,Exploring,Fast,Calm,White,Dog
+Alone,Morning,Sleeping,Medium,Anxious,White,Cat
+Alone,Morning,Swimming,Medium,Calm,White,Cat
+Big Group,Afternoon,Swimming,Fast,Aggressive,Red,Lion
+Alone,Night,Sleeping,Slow,Anxious,Green,Cat
+Big Group,Night,Sleeping,Slow,Anxious,Blue,Cat
+Alone,Morning,Exploring,Fast,Calm,Blue,Dog
+Alone,Morning,Swimming,Slow,Anxious,White,Cat
+Alone,Afternoon,Exploring,Slow,Anxious,Red,Dog
+Small Group,Morning,Swimming,Fast,Anxious,Green,Rabbit
+Big Group,Afternoon,Sleeping,Slow,Anxious,Green,Rabbit
+Big Group,Night,Exploring,Fast,Calm,Blue,Dog
+Alone,Night,Swimming,Fast,Calm,Blue,Dolphin
+Big Group,Afternoon,Sleeping,Slow,Aggressive,Green,Bear
+Alone,Afternoon,Sleeping,Medium,Aggressive,Black,Cat
+Alone,Morning,Exploring,Slow,Calm,Red,Dog
+Small Group,Morning,Exploring,Slow,Anxious,Black,Dog
+Big Group,Night,Exploring,Fast,Anxious,White,Cat
+Alone,Afternoon,Swimming,Slow,Aggressive,White,Cat
+Big Group,Afternoon,Swimming,Medium,Anxious,White,Cat
+Alone,Morning,Hunting,Medium,Anxious,White,Cat
+Alone,Morning,Swimming,Medium,Calm,Red,Dog
+Big Group,Afternoon,Sleeping,Slow,Aggressive,Green,Bear
+Small Group,Afternoon,Exploring,Slow,Calm,Black,Dog
+Big Group,Afternoon,Sleeping,Medium,Aggressive,Blue,Dog
+Big Group,Afternoon,Swimming,Medium,Aggressive,Blue,Dolphin
+Small Group,Afternoon,Swimming,Slow,Aggressive,White,Owl
+Big Group,Night,Sleeping,Slow,Calm,Black,Cat
+Small Group,Night,Exploring,Slow,Anxious,White,Cat
+Small Group,Morning,Sleeping,Slow,Anxious,Blue,Rabbit
+Big Group,Morning,Hunting,Slow,Calm,Green,Bear
+Big Group,Morning,Hunting,Slow,Aggressive,Black,Owl
+Big Group,Afternoon,Exploring,Fast,Anxious,Blue,Dog
+Alone,Afternoon,Exploring,Fast,Anxious,Green,Rabbit
+Big Group,Afternoon,Exploring,Slow,Anxious,Black,Dog
+Small Group,Night,Exploring,Slow,Anxious,White,Cat
+Big Group,Night,Swimming,Fast,Anxious,White,Cat
+Alone,Morning,Exploring,Slow,Aggressive,White,Cat
+Alone,Night,Exploring,Medium,Calm,Blue,Dog
+Small Group,Afternoon,Exploring,Fast,Anxious,Blue,Dog
+Small Group,Afternoon,Exploring,Medium,Aggressive,White,Fox
+Small Group,Night,Sleeping,Medium,Calm,Green,Rabbit
+Big Group,Morning,Sleeping,Fast,Aggressive,Blue,Dog
+Small Group,Night,Sleeping,Slow,Aggressive,Red,Lion
+Small Group,Night,Exploring,Slow,Anxious,White,Cat
+Big Group,Night,Swimming,Slow,Aggressive,Black,Owl
+Alone,Afternoon,Sleeping,Slow,Aggressive,Red,Cat
+Small Group,Afternoon,Swimming,Slow,Aggressive,Red,Lion
+Big Group,Afternoon,Hunting,Slow,Anxious,Blue,Dog
+Small Group,Morning,Swimming,Medium,Aggressive,Red,Lion
+Small Group,Morning,Exploring,Slow,Anxious,Blue,Dog
+Big Group,Night,Exploring,Slow,Aggressive,Blue,Dog
+Big Group,Morning,Swimming,Fast,Anxious,Green,Rabbit
+Alone,Morning,Hunting,Slow,Calm,Green,Bear
+Small Group,Morning,Swimming,Medium,Anxious,Black,Cat
+Alone,Night,Sleeping,Medium,Anxious,Black,Cat
+Alone,Afternoon,Hunting,Slow,Calm,Black,Owl
+Alone,Night,Sleeping,Slow,Anxious,Blue,Cat
+Small Group,Morning,Hunting,Fast,Anxious,Blue,Rabbit
+Alone,Night,Sleeping,Fast,Calm,White,Cat
+Alone,Afternoon,Exploring,Fast,Anxious,Blue,Dog
+Big Group,Night,Swimming,Fast,Anxious,Blue,Dolphin
+Small Group,Night,Sleeping,Slow,Aggressive,Red,Lion
+Big Group,Afternoon,Hunting,Medium,Calm,Blue,Dog
+Alone,Morning,Hunting,Medium,Calm,Red,Fox
+Alone,Morning,Hunting,Fast,Anxious,Blue,Cat
+Big Group,Morning,Swimming,Fast,Anxious,Black,Cat
+Small Group,Morning,Sleeping,Fast,Anxious,Blue,Rabbit
+Small Group,Night,Swimming,Medium,Aggressive,White,Cat
+Alone,Morning,Swimming,Fast,Calm,Black,Cat
+Alone,Afternoon,Exploring,Fast,Anxious,Blue,Dog
+Big Group,Night,Exploring,Slow,Calm,Red,Dog
+Small Group,Night,Swimming,Medium,Calm,White,Dog
+Alone,Afternoon,Exploring,Slow,Calm,Black,Dog
+Alone,Night,Swimming,Slow,Aggressive,Green,Cat
+Big Group,Morning,Sleeping,Slow,Calm,Red,Bear
+Alone,Night,Swimming,Slow,Anxious,Green,Cat
+Alone,Afternoon,Sleeping,Fast,Anxious,Blue,Cat
+Alone,Night,Sleeping,Fast,Aggressive,Black,Cat
+Small Group,Afternoon,Swimming,Fast,Anxious,Green,Rabbit
+Big Group,Night,Hunting,Slow,Calm,Blue,Dog
+Alone,Afternoon,Sleeping,Fast,Calm,Black,Cat
+Small Group,Afternoon,Exploring,Medium,Anxious,Blue,Dog
+Alone,Afternoon,Exploring,Fast,Calm,Red,Dog
+Big Group,Morning,Swimming,Slow,Calm,Black,Dolphin
+Small Group,Night,Exploring,Medium,Calm,Green,Dog
+Small Group,Morning,Swimming,Medium,Calm,Green,Bear
+Alone,Afternoon,Sleeping,Medium,Calm,Blue,Dog
+Alone,Morning,Sleeping,Slow,Anxious,Blue,Cat
+Big Group,Morning,Hunting,Slow,Aggressive,White,Owl
+Big Group,Morning,Hunting,Fast,Aggressive,Black,Fox
+Big Group,Night,Swimming,Slow,Calm,Black,Dolphin
+Big Group,Morning,Exploring,Slow,Aggressive,Green,Bear
+Alone,Afternoon,Exploring,Fast,Aggressive,Green,Lion
+Big Group,Morning,Sleeping,Medium,Anxious,Blue,Dog
+Alone,Morning,Sleeping,Fast,Aggressive,Green,Rabbit
+Alone,Morning,Swimming,Slow,Anxious,Blue,Cat
+Alone,Night,Exploring,Fast,Anxious,Blue,Cat
+Small Group,Afternoon,Exploring,Medium,Anxious,Red,Dog
+Small Group,Afternoon,Hunting,Slow,Anxious,Black,Owl
+Big Group,Morning,Swimming,Medium,Aggressive,Black,Fox
+Big Group,Afternoon,Hunting,Slow,Aggressive,Green,Owl
+Small Group,Morning,Hunting,Medium,Aggressive,Green,Fox
+Small Group,Afternoon,Sleeping,Medium,Anxious,Red,Rabbit
+Alone,Afternoon,Exploring,Slow,Calm,Blue,Dog
+Alone,Afternoon,Swimming,Fast,Calm,Red,Dog
+Alone,Night,Swimming,Slow,Aggressive,White,Cat
+Big Group,Afternoon,Exploring,Slow,Calm,Black,Dog
+Small Group,Afternoon,Hunting,Slow,Aggressive,Green,Owl
+Small Group,Morning,Sleeping,Slow,Anxious,Black,Cat
+Alone,Night,Exploring,Fast,Anxious,Red,Cat
+Big Group,Morning,Swimming,Slow,Aggressive,Red,Dog
+Alone,Morning,Swimming,Fast,Anxious,White,Cat
+Small Group,Night,Sleeping,Slow,Anxious,Blue,Cat
+Alone,Afternoon,Exploring,Medium,Aggressive,Blue,Fox
+Big Group,Morning,Swimming,Slow,Aggressive,White,Dolphin
+Alone,Morning,Swimming,Fast,Calm,White,Cat
+Big Group,Afternoon,Exploring,Fast,Calm,Red,Dog
+Small Group,Night,Swimming,Fast,Calm,White,Rabbit
+Small Group,Night,Hunting,Fast,Calm,Black,Owl
+Big Group,Afternoon,Sleeping,Fast,Anxious,Blue,Rabbit
+Small Group,Morning,Swimming,Medium,Aggressive,Black,Fox
+Big Group,Afternoon,Hunting,Fast,Anxious,Green,Rabbit
+Small Group,Night,Hunting,Fast,Calm,Blue,Dog
+Alone,Night,Hunting,Slow,Anxious,Red,Cat
+Small Group,Morning,Exploring,Slow,Anxious,Green,Rabbit
+Small Group,Night,Sleeping,Medium,Aggressive,Blue,Dog
+Alone,Morning,Swimming,Medium,Calm,Red,Dog
+Big Group,Afternoon,Swimming,Medium,Aggressive,Blue,Dolphin
+Small Group,Morning,Exploring,Slow,Anxious,Red,Dog
+Small Group,Afternoon,Exploring,Slow,Anxious,Green,Rabbit
+Big Group,Afternoon,Sleeping,Fast,Calm,White,Rabbit
+Small Group,Morning,Sleeping,Fast,Anxious,Red,Rabbit
+Alone,Morning,Exploring,Slow,Aggressive,Red,Fox
+Small Group,Afternoon,Exploring,Medium,Calm,Red,Dog
+Big Group,Morning,Swimming,Medium,Anxious,White,Cat
+Alone,Night,Swimming,Medium,Aggressive,White,Cat
+Small Group,Morning,Exploring,Slow,Calm,Green,Bear
+Alone,Morning,Swimming,Slow,Aggressive,Blue,Dolphin
+Big Group,Night,Exploring,Medium,Aggressive,Black,Fox
+Alone,Morning,Sleeping,Medium,Anxious,Green,Cat
+Alone,Afternoon,Sleeping,Medium,Calm,Blue,Dog
+Big Group,Afternoon,Sleeping,Slow,Anxious,Green,Rabbit
+Big Group,Afternoon,Exploring,Slow,Aggressive,White,Dog
+Small Group,Night,Sleeping,Fast,Calm,Red,Dog
+Alone,Afternoon,Swimming,Slow,Calm,White,Cat
+Big Group,Night,Exploring,Slow,Calm,Black,Dog
+Small Group,Morning,Sleeping,Fast,Aggressive,Blue,Lion
+Big Group,Night,Hunting,Fast,Anxious,Blue,Dog
+Big Group,Afternoon,Sleeping,Slow,Anxious,White,Cat
+Alone,Afternoon,Swimming,Medium,Aggressive,Green,Fox
+Big Group,Morning,Swimming,Slow,Anxious,Green,Bear
+Small Group,Afternoon,Sleeping,Fast,Anxious,Blue,Rabbit
+Big Group,Afternoon,Hunting,Slow,Calm,Black,Owl
+Small Group,Morning,Hunting,Fast,Aggressive,Black,Lion
+Big Group,Afternoon,Sleeping,Fast,Aggressive,Red,Lion
+Alone,Morning,Sleeping,Slow,Anxious,Black,Cat
+Small Group,Morning,Hunting,Slow,Calm,Green,Bear
+Small Group,Morning,Swimming,Slow,Aggressive,Black,Owl
+Alone,Afternoon,Hunting,Medium,Aggressive,Red,Fox
+Big Group,Afternoon,Exploring,Slow,Calm,Green,Dog
+Big Group,Morning,Exploring,Fast,Anxious,Blue,Dog
+Small Group,Night,Exploring,Slow,Aggressive,Red,Dog
+Small Group,Night,Exploring,Fast,Calm,Red,Dog
+Big Group,Afternoon,Exploring,Medium,Calm,Blue,Dog
+Alone,Night,Sleeping,Slow,Calm,Green,Bear
+Alone,Morning,Hunting,Fast,Calm,Blue,Dog
+Alone,Night,Sleeping,Medium,Calm,Blue,Cat
+Small Group,Afternoon,Hunting,Slow,Anxious,Black,Owl
+Small Group,Night,Swimming,Slow,Aggressive,Black,Owl
+Small Group,Night,Swimming,Slow,Anxious,Blue,Dog
+Big Group,Afternoon,Exploring,Slow,Anxious,Blue,Dog
+Big Group,Morning,Hunting,Slow,Aggressive,Red,Fox
+Alone,Morning,Hunting,Medium,Anxious,White,Cat
+Small Group,Afternoon,Exploring,Slow,Aggressive,Black,Fox
+Alone,Morning,Swimming,Medium,Aggressive,White,Cat
+Alone,Night,Sleeping,Fast,Calm,Blue,Cat
+Alone,Morning,Swimming,Fast,Calm,Black,Cat
+Big Group,Morning,Sleeping,Fast,Aggressive,Red,Lion
+Big Group,Night,Exploring,Fast,Anxious,White,Cat
+Small Group,Morning,Hunting,Slow,Aggressive,Blue,Dog
+Small Group,Morning,Swimming,Medium,Anxious,Red,Dog
+Alone,Afternoon,Exploring,Slow,Calm,Blue,Dog
+Alone,Night,Swimming,Slow,Calm,Blue,Dolphin
+Small Group,Night,Hunting,Slow,Aggressive,White,Owl
+Alone,Afternoon,Exploring,Fast,Calm,Red,Dog
+Small Group,Afternoon,Hunting,Slow,Anxious,Black,Owl
+Big Group,Night,Hunting,Slow,Anxious,Black,Owl
+Big Group,Night,Sleeping,Slow,Anxious,Black,Cat
+Big Group,Afternoon,Sleeping,Slow,Calm,White,Bear
+Small Group,Afternoon,Sleeping,Medium,Anxious,Black,Cat
+Alone,Night,Sleeping,Medium,Anxious,Green,Cat
+Small Group,Morning,Exploring,Medium,Anxious,Green,Rabbit
+Alone,Night,Hunting,Medium,Aggressive,Red,Fox
+Big Group,Afternoon,Hunting,Medium,Calm,Blue,Dog
+Alone,Night,Swimming,Medium,Anxious,Green,Cat
+Alone,Afternoon,Swimming,Medium,Aggressive,Green,Fox
+Alone,Night,Swimming,Medium,Aggressive,Blue,Cat
+Big Group,Night,Hunting,Medium,Anxious,Red,Fox
+Alone,Afternoon,Swimming,Medium,Aggressive,Green,Fox
+Big Group,Morning,Sleeping,Slow,Calm,Black,Bear
+Small Group,Night,Sleeping,Fast,Aggressive,Blue,Lion
+Big Group,Night,Hunting,Slow,Calm,Black,Owl
+Big Group,Morning,Hunting,Fast,Anxious,Black,Cat
+Alone,Afternoon,Swimming,Fast,Anxious,Blue,Cat
+Small Group,Afternoon,Hunting,Slow,Anxious,Black,Owl
+Big Group,Afternoon,Swimming,Slow,Calm,Black,Dolphin
+Small Group,Afternoon,Swimming,Slow,Aggressive,Blue,Dog
+Alone,Afternoon,Hunting,Medium,Aggressive,Green,Fox
+Big Group,Night,Sleeping,Medium,Calm,Green,Bear
+Big Group,Night,Hunting,Fast,Aggressive,Green,Owl
+Small Group,Night,Swimming,Medium,Aggressive,Blue,Dog
+Small Group,Night,Sleeping,Slow,Calm,White,Cat
+Small Group,Afternoon,Exploring,Slow,Anxious,Blue,Dog
+Alone,Morning,Exploring,Fast,Calm,Red,Dog
+Alone,Afternoon,Swimming,Medium,Aggressive,Green,Fox
