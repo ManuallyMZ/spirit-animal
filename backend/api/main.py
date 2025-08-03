@@ -18,7 +18,11 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
     "http://localhost:5173",
-    "https://spirit-animal-781i.vercel.app"],
+    "https://spirit-animal-781i.vercel.app",
+    "spirit-animal-nimaramezani.vercel.app",
+    "spirit-animal-nima-ramezani.vercel.app",
+    "https://spirit-animal-781i-lnwffr5m6-manuallymzs-projects.vercel.app/",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
