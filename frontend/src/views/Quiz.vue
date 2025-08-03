@@ -37,6 +37,7 @@ import { ref, reactive } from "vue";
 import axios from "axios";
 import { useRouter } from "vue-router";
 const router = useRouter();
+const API_BASE = import.meta.env.API_BASE_URL || "http://127.0.0.1:8000";
 const questions = [
   {
     id: "social_preference",
@@ -92,7 +93,7 @@ function handleAnswer(option) {
 }
 async function submitAnswers() {
   try {
-    const response = await axios.post("http://127.0.0.1:8000/predict", answers);
+    const response = await axios.post(`${API_BASE}/predict`, answers);
     const predicted = response.data.predicted_animal;
     router.push({ name: "Results", query: { animal: predicted } });
   } catch (error) {
