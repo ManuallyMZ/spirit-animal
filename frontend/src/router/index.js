@@ -1,6 +1,5 @@
 import { createRouter, createWebHistory } from "vue-router";
 
-// Import your views/components
 import Home from "../views/Home.vue";
 import Quiz from "../views/Quiz.vue";
 import Results from "../views/Results.vue";

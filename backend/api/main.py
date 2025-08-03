@@ -4,7 +4,6 @@ import joblib
 import pandas as pd
 import os
 
-# Load model and encoder
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(BASE_DIR, '..', 'models', 'animal_model.pkl')
 encoder_path = os.path.join(BASE_DIR, '..','models','animal_encoder.pkl')
@@ -17,13 +16,13 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # or "*" for testing
+    allow_origins=[
+    "http://localhost:5173",
+    "https://spirit-animal-781i.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-# Define request body schema
 
 
 class QuizAnswers(BaseModel):
@@ -37,13 +36,10 @@ class QuizAnswers(BaseModel):
 
 @app.post("/predict")
 def predict_animal(answers: QuizAnswers):
-    # Convert to DataFrame
     input_df = pd.DataFrame([answers.dict()])
 
-    # Encode features
     input_encoded = encoder.transform(input_df)
 
-    # Predict
     prediction = model.predict(input_encoded)[0]
 
     return {"predicted_animal": prediction}

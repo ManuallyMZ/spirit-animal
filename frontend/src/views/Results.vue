@@ -37,10 +37,8 @@ import { useRoute, useRouter } from "vue-router";
 const route = useRoute();
 const router = useRouter();
 
-// Get the animal from query param
 const animal = route.query.animal || "";
 
-// Simple mapping for descriptions and image filenames
 const info = {
   dog: {
     desc: "Loyal, friendly, and social. You thrive in companionship.",
@@ -83,8 +81,6 @@ const info = {
     backColor: "orange",
   },
 };
-
-// Normalize key to lowercase to match
 const key = (animal || "").toString().toLowerCase();
 const description = computed(
   () => info[key]?.desc ?? "An interesting spirit animal!"

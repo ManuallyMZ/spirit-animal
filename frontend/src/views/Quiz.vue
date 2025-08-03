@@ -11,12 +11,6 @@
         class="mb-2"
       >
         <label>
-          <!-- <input
-        type="radio"
-        :name="questions[currentQuestionIndex].id"
-        :value="option"
-        v-model="answers[questions[currentQuestionIndex].id]"
-        /> -->
           <button
             @click="handleAnswer(option)"
             :class="{

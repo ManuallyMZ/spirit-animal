@@ -23,7 +23,4 @@ export default {};
 </script>
 
 <style>
-/* body {
-  background-color: rgb(215, 255, 255);
-} */
 </style>
