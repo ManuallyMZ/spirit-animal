@@ -4,7 +4,7 @@
 <template>
   <div style="height: 100%; display: flex; flex-direction: column">
     <img
-      src="../logo/logo.svg"
+      src="..public/logo/logo.svg"
       alt="Spirit Animal"
       class="mx-auto mt-50 mb-5"
       style="width: 400px"
