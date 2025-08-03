@@ -19,9 +19,9 @@ app.add_middleware(
     allow_origins=[
     "http://localhost:5173",
     "https://spirit-animal-781i.vercel.app",
-    "spirit-animal-nimaramezani.vercel.app",
-    "spirit-animal-nima-ramezani.vercel.app",
-    "https://spirit-animal-781i-lnwffr5m6-manuallymzs-projects.vercel.app/",
+    "https://spirit-animal-nimaramezani.vercel.app",
+    "https://spirit-animal-nima-ramezani.vercel.app",
+    "https://spirit-animal-781i-lnwffr5m6-manuallymzs-projects.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
