@@ -5,7 +5,7 @@
       <img
         :src="imageSrc"
         :alt="animal"
-        class="mx-auto w-48 h-48 object-contain mb-4"
+        class="mx-auto w-54 h-54 object-contain mb-4"
       />
       <div>
         <h2 class="text-2xl font-semibold capitalize mb-2 text-red">
