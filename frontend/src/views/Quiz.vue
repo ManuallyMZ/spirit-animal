@@ -1,9 +1,12 @@
 <template>
   <div class="quiz-container shadow p-6 mx-auto text-center card">
-    <h2>
+    <h2 v-if="loading == false">
       <b>Question {{ currentQuestionIndex + 1 }} of {{ questions.length }}</b>
     </h2>
-    <p>{{ questions[currentQuestionIndex].text }}</p>
+    <h2 v-if="loading == true">
+      <b>Processing</b>
+    </h2>
+    <p v-if="loading == false">{{ questions[currentQuestionIndex].text }}</p>
     <div class="flex flex-row gap-3 mt-2 button-container">
       <div
         v-for="option in questions[currentQuestionIndex].options"
@@ -12,6 +15,7 @@
       >
         <label>
           <button
+            v-if="loading == false"
             @click="handleAnswer(option)"
             :class="{
               'bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-600':
@@ -21,6 +25,9 @@
             {{ option }}
           </button>
         </label>
+      </div>
+      <div style="width: 400px; display: flex; justify-content: center">
+        <button v-if="loading == true" :disabled="true">please wait</button>
       </div>
     </div>
   </div>
@@ -32,6 +39,7 @@ import axios from "axios";
 import { useRouter } from "vue-router";
 const router = useRouter();
 const API_BASE = import.meta.env.VITE_API_BASE_URL;
+const loading = ref(false);
 const questions = [
   {
     id: "social_preference",
@@ -87,11 +95,14 @@ function handleAnswer(option) {
 }
 async function submitAnswers() {
   try {
+    loading.value = true;
     const response = await axios.post(`${API_BASE}/predict`, answers);
     const predicted = response.data.predicted_animal;
     router.push({ name: "Results", query: { animal: predicted } });
   } catch (error) {
     console.error("Failed to submit answers", error);
+  } finally {
+    loading.value = false;
   }
 }
 </script>
